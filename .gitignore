@@ -1,0 +1,42 @@
+# Flutter/Dart
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+pubspec.lock
+
+# Android
+android/.gradle/
+android/local.properties
+android/*.iml
+android/.idea/
+android/captures/
+android/key.properties
+
+# iOS
+ios/.symlinks/
+ios/Pods/
+ios/Podfile.lock
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/project.pbxproj
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test
+test/
+coverage/
+
+# Other
+care_pal_full/
+care_pal_full.zip
+*.bat
+preview.html
